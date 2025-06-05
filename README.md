@@ -4,7 +4,7 @@
 
 <p align="left">
 
-- As a Software Engineering student 👩‍💻 at Albaath University, specializing in Informatics Engineering, I am deeply committed to honing my skills and crafting exceptional digital experiences💫.
+- As a Software Engineering student 👩‍💻 at Homs University, specializing in Informatics Engineering, I am deeply committed to honing my skills and crafting exceptional digital experiences💫.
 - My GitHub repositories serve as a testament to my proficiency in web development 🛠 , with a focus on projects utilizing React.js, Next.js, and other cutting-edge JavaScript frameworks🌱.
 - From creating responsive user interfaces to implementing seamless animations, I strive to deliver solutions that captivate and delight users🌟.
 
